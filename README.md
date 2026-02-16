@@ -29,13 +29,6 @@ https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2
 
 ---
 
-## 🏗️ Project Structure
-
-UrbanRoof-Property-AI/
-│
-├── app.py
-├── .env
----
 
 ## ⚙️ Installation
 
